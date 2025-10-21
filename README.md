@@ -1,4 +1,4 @@
-# DSC-054 step 4: Source finding and catalogue generation
+# DSC-057 step 4: Source finding and catalogue generation
 
 This notebook is a first implementation of DSC-057, Continuum Source Finding: step 4 of https://confluence.skatelescope.org/display/SRCSC/DSC-057+Detailed+breakdown
 
